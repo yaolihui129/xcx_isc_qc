@@ -1,0 +1,14 @@
+<!--pages/project/pages/standard/index.wxml-->
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+<view class="container">
+  <template is="head" data="{{title: '测试迭代评估'}}"/>
+
+  <view class="page-body">
+
+    <text>pages/project/pages/standard/index.wxml</text>
+    
+  </view>
+  <template is="foot" />
+</view>
+

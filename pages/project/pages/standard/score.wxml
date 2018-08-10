@@ -1,0 +1,15 @@
+<!--pages/project/pages/standard/score.wxml-->
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+<view class="container">
+  <template is="head" data="{{title: '考核积分计划'}}"/>
+
+  <view class="page-body">
+
+    <text>pages/project/pages/standard/score.wxml</text>
+    
+  </view>
+  <template is="foot" />
+</view>
+
+

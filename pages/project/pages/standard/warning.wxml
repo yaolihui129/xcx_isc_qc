@@ -1,0 +1,14 @@
+<!--pages/project/pages/standard/warning.wxml-->
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+<view class="container">
+  <template is="head" data="{{title: '预警邮件模板'}}"/>
+
+  <view class="page-body">
+
+    <text>pages/project/pages/standard/warning.wxml</text>
+    
+  </view>
+  <template is="foot" />
+</view>
+

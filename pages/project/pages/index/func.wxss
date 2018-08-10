@@ -1,0 +1,2 @@
+/* pages/project/pages/func/func.wxss */
+@import "../../../common/index.wxss";

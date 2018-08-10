@@ -1,0 +1,15 @@
+<!--pages/project/pages/standard/pass.wxml-->
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+<view class="container">
+  <template is="head" data="{{title: '测试通过邮件'}}"/>
+
+  <view class="page-body">
+
+    <text>pages/project/pages/standard/pass.wxml</text>
+    
+  </view>
+  <template is="foot" />
+</view>
+
+

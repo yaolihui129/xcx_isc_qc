@@ -1,0 +1,14 @@
+<!--pages/project/pages/standard/manage.wxml-->
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+<view class="container">
+  <template is="head" data="{{title: '测试迭代管理'}}"/>
+
+  <view class="page-body">
+
+    <text>pages/project/pages/standard/manage.wxml</text>
+    
+  </view>
+  <template is="foot" />
+</view>
+
